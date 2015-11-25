@@ -1,5 +1,7 @@
 ---
 name: datascience
 full_name: Data Science Working Group
+description:
+  Replace this text.
 private:
   slack: wg-datascience
