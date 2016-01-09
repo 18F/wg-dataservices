@@ -3,3 +3,4 @@ name: datascience
 full_name: Data Science Working Group
 private:
   slack: wg-datascience
+owner_type: working-group
