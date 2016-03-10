@@ -5,3 +5,4 @@ description:
   Replace this text.
 private:
   slack: wg-datascience
+owner_type: working-group
