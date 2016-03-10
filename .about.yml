@@ -1,8 +1,8 @@
 ---
 name: datascience
-full_name: Data Science Working Group
+full_name: Data Services Working Group
 description:
-  Replace this text.
+  Data enthusiasts welcome. Learn, share, geek out about data methods and projects here.
 private:
-  slack: wg-datascience
+  slack: wg-dataservices
 owner_type: working-group
